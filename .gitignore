@@ -1,0 +1,21 @@
+# Compiled object files / binaries
+*.o
+*.obj
+*.out
+*.exe
+*.dSYM/
+a.out
+
+# Known compiled executables (no extension, named after their source)
+Abstraction/Abstraction
+DocumentEditor/DocumentEditor
+Factory/SimpleFactory
+SOLID/SRP_followed
+Singleton/ThreadSafe_Eager_Singleton
+Observer/Observer
+
+# macOS
+.DS_Store
+
+# Env files
+.env
